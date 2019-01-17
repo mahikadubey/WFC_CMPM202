@@ -3,7 +3,7 @@ WaveFunctionCollapse Project for CMPM 202 W19 - Creation of some artifacts using
 
 Sample pixel art images created using PixilArt (https://www.pixilart.com/)
 
-# 'Google' Style Flat Maps and Terrains:  
+# Flat Maps and Terrains:  
 Map structure is better preserved with larger tile size (N=3), especially in images with clear boundaries around certain objects.
 
 
