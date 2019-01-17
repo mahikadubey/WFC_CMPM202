@@ -7,13 +7,13 @@ Note: Python implementation is computationally slow, generated images range in s
 
 # Flat Maps and Terrains:  
 Map structure is better preserved with larger tile size (N=3), especially in images with clear boundaries around certain objects.  
-
-
-![](Maps.png)
-
-
+  
+  
+![](Maps.png)  
+  
+  
 # Persian Patterns: 
 Images with a lot more details ended up being tiled entirely (with N=3. With N=2, tilesize is too small to replicate complex patterns). Simpler patterns lead to more interesting generated artifacts.  
-
-
+  
+  
 ![](Tiles.png)
