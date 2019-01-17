@@ -11,8 +11,11 @@ Sample pixel art images created manually using PixilArt (https://www.pixilart.co
 
 In progress output images are saved to the same directory with code. NxN samples are taken from the input image as inferred rules.  
 
-Note: Python code is computationally slow. Ouput images are between 30x30 pixels and 60x60 pixels.  
+Note: Python code is computationally slow. Ouput images are between 30x30 pixels and 60x60 pixels.   
 
+![](Tile.png)  
+  
+  
 ### Flat Maps and Terrains:  
 Map structure is better preserved with larger tile size (N=3), especially in images with clear boundaries around certain objects.  
   
