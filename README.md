@@ -21,7 +21,7 @@ Map structure is better preserved with larger tile size (N=3), especially in ima
   
   
 ### Persian Patterns: 
-Images with a lot more details ended up being tiled entirely (with N=3. With N=2, tilesize is too small to replicate complex patterns). Simpler patterns lead to more interesting generated artifacts.  
+Images with a lot more details ended up being tiled entirely due to there being fewer 'legal' neighbors per tile. Simpler patterns lead to more interesting generated artifacts.  
   
   
 ![](Tiles.png)
