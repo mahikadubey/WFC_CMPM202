@@ -4,7 +4,7 @@ WaveFunctionCollapse Project for CMPM 202 W19 - Creation of some artifacts using
 Sample pixel art images created manually using PixilArt (https://www.pixilart.com/)
 
 # How to Run  
-1. Sample pixel art image (eg. Islands.png) put in folder `sample2/`
+1. Put sample pixel art image (eg. Islands.png) in folder `sample2/`
 2. In samples.xml, add a line indicating tilesize for sampe image: `<overlapping name="Islands" N="3" periodic="True"/>`
 3. Instantiate an OverlappingModel using the sample image: `a_model = OverlappingModel(WIDTH, HEIGTH, SAMPLE_NAME, N, PERIODIC_IN, PERIODIC_OUT, SYMMETRY, GROUND)`  
 
