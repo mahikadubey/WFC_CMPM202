@@ -14,7 +14,9 @@ In progress output images are saved to the same directory with code. NxN samples
 Note: Python code is computationally slow. Ouput images are between 30x30 pixels and 60x60 pixels.   
 
 ![](Tile.png)  
-  
+    
+    
+# Results 
   
 ### Flat Maps and Terrains:  
 Map structure is better preserved with larger tile size, especially in images with clear boundaries around certain objects.  
